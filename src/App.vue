@@ -4,10 +4,7 @@
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
       <b-navbar-brand to="/">SynSapien</b-navbar-brand>
       <b-collapse is-nav id="nav_collapse">
-        <b-navbar-nav>
-          <div>
-            
-          </div>
+        <b-navbar-nav class="d-flex justify-content-around">
           <b-nav-item to="/">Home</b-nav-item>
           <b-nav-item to="/posts-manager">Create a project</b-nav-item>
           <b-nav-item>Explorer</b-nav-item>
